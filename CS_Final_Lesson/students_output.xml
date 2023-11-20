@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>1</Id>
+    <Username>John Smith</Username>
+    <Email>john.smith@example.com</Email>
+  </User>
+  <User>
+    <Id>2</Id>
+    <Username>Alice Johnson</Username>
+    <Email>alice.johnson@example.com</Email>
+  </User>
+  <User>
+    <Id>3</Id>
+    <Username>Michael Brown</Username>
+    <Email>michael.brown@example.com</Email>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Username>Emma Davis</Username>
+    <Email>emma.davis@example.com</Email>
+  </User>
+  <User>
+    <Id>5</Id>
+    <Username>William Wilson</Username>
+    <Email>william.wilson@example.com</Email>
+  </User>
+  <User>
+    <Id>6</Id>
+    <Username>Olivia Thompson</Username>
+    <Email>olivia.thompson@example.com</Email>
+  </User>
+  <User>
+    <Id>7</Id>
+    <Username>James Anderson</Username>
+    <Email>james.anderson@example.com</Email>
+  </User>
+  <User>
+    <Id>8</Id>
+    <Username>Sophia Moore</Username>
+    <Email>sophia.moore@example.com</Email>
+  </User>
+  <User>
+    <Id>9</Id>
+    <Username>Benjamin Taylor</Username>
+    <Email>benjamin.taylor@example.com</Email>
+  </User>
+  <User>
+    <Id>10</Id>
+    <Username>Ava Martinez</Username>
+    <Email>ava.martinez@example.com</Email>
+  </User>
+  <User>
+    <Id>11</Id>
+    <Username>Alexander Johnson</Username>
+    <Email>alexander.johnson@example.com</Email>
+  </User>
+  <User>
+    <Id>12</Id>
+    <Username>Mia Davis</Username>
+    <Email>mia.davis@example.com</Email>
+  </User>
+  <User>
+    <Id>13</Id>
+    <Username>Daniel Wilson</Username>
+    <Email>daniel.wilson@example.com</Email>
+  </User>
+  <User>
+    <Id>14</Id>
+    <Username>Isabella Thompson</Username>
+    <Email>isabella.thompson@example.com</Email>
+  </User>
+  <User>
+    <Id>15</Id>
+    <Username>Jackson Anderson</Username>
+    <Email>jackson.anderson@example.com</Email>
+  </User>
+  <User>
+    <Id>16</Id>
+    <Username>Emily Moore</Username>
+    <Email>emily.moore@example.com</Email>
+  </User>
+  <User>
+    <Id>17</Id>
+    <Username>Sebastian Taylor</Username>
+    <Email>sebastian.taylor@example.com</Email>
+  </User>
+  <User>
+    <Id>18</Id>
+    <Username>Abigail Martinez</Username>
+    <Email>abigail.martinez@example.com</Email>
+  </User>
+  <User>
+    <Id>19</Id>
+    <Username>David Johnson</Username>
+    <Email>david.johnson@example.com</Email>
+  </User>
+</ArrayOfUser>
